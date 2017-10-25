@@ -1,0 +1,15 @@
+.services {
+    background: #8e173d;
+    background: #fff;
+    padding: 40px 20px 20px 20px;
+    margin-bottom: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+
+footer .list-inline {
+    margin: 0;
+    padding: 0;
+}
